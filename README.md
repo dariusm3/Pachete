@@ -1,4 +1,3 @@
 Proiect Pachete Software
 
-Melinte Darius
-Marmureanu Vlad
+Melinte Darius si Marmureanu Vlad
